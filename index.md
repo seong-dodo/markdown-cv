@@ -1,91 +1,61 @@
+
+## 인적 사항
 ---
-layout: cv
-title: Isaac Newtons's CV
+
+- 이름 : 김성화
+- 연락처: 010-5282-5079
+- 이메일: dyrnxm52@hanmail.net
+- Github: https://github.com/seong-dodo
+- 블로그: https://velog.io/@seong-dodo
+
+
+
+## 프로젝트 이력
+----
+
+### 1. Mine 애플리케이션 - 개인 가계부 웹애플리케이션
+
+ 1. 프로젝트 소개
+ 	- 가계부 작성을 기반으로 "나의 것"을 지키는 습관을 만들어주고 더 나아가 "자산 관리"로 이어지도록 다양한 정보를 제공하는 서비스입니다.
+ 2. 기간
+ 	- 2021.06.28 ~ 2021.09.07
+ 3. 프로젝트 목표
+ 	- [x]  Phase 1 : 백엔드 API 없이 프론트엔드 환경에서만 돌아갈 수 있는 웹애플리케이션을 React와 Redux를 이용해서 개발
+    - [x]  Phase 2 : Phase 1에서 완료한 프론트엔드 환경에서 백엔드 API를 붙여서 영구적인 데이터 저장이 가능하도록 개발
+   
+ 4. 역할
+ 	- 가계부에 활용가능한 Calendar UI 컴포넌트를 라이브러리없이 개발
+    - Jest를 이용해서 모든 컴포넌트의 Unit Test 작성
+    - 가계부 조회에 필요한 모달 컴포넌트 개발
+    - 가계부 등록/수정에 필요한 모달 컴포넌트 개발
+    - 모바일 환경에서 이용가능하도록 반응형 CSS 적용
+  
+ 5. 기술스택
+ 	- Javascript, React, Redux, HTML/CSS, Jest
+ 6. github repository
+ 	- https://github.com/CodeSoom/project-react-4-seong-dodo
+
+
+
+## 교육 이력 및 학력
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+### 교육 이력
 
+1. 코드잇 온라인 강의
+	- 수강한 과목
+    	- HTML/CSS, JavaScript, React
+2. 코드숨 리액트 4기 
+	- 목표
+      - 코드 리뷰와 실제 개발 문화를 경험해보기 위해서 신청 
+    - 경험  
+      - 모든 컴포넌트에 유닛테스트 코드를 작성 
+      - 코드리뷰를 통해 코드를 개선
+      - 순수 자바스크립트로 구현한 코드에서 점진적으로 React로 발전하는 주차별 과제 수행
+      
+      
+### 학력 
 
-## Currently
+- 창원 대학교 환경 공학과 학사졸업 (2010 ~ 2014)
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+      
